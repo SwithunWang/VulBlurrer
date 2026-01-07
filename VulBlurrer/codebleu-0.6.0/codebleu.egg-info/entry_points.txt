@@ -1,0 +1,2 @@
+[console_scripts]
+codebleu = codebleu.__main__:main
